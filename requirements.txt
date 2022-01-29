@@ -76,7 +76,7 @@ prometheus-client
 prompt-toolkit
 pure-eval
 pycparser
-Pygments=
+Pygments
 pyOpenSSL
 pyparsing
 pyrsistent
