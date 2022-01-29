@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --theme=dark --skip_sources=False app.ipynb --show_tracebacks=True
+web: voila --port=$PORT --no-browser --strip_sources=False app.ipynb --show_tracebacks=True
